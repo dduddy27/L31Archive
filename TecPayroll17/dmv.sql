@@ -1,0 +1,1 @@
+select owning_principal_name,instance_pipe_name,heart_beat from sys.dm_os_child_instances
